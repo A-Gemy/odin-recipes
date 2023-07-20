@@ -29,13 +29,13 @@ ul li {
   margin: 10px 0;
 }
 
-li a:link,
-li a:visited {
+a:link,
+a:visited {
   color: blue;
   transition: 0.3s;
 }
 
-li a:hover,
-li a:active {
+a:hover,
+a:active {
   color: #000060;
 }
