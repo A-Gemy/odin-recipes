@@ -6,4 +6,5 @@ This is the first project from https://www.theodinproject.com foundations course
 
 ## links:
 
-- live preview: https://a-gemy.github.io/odin-recipes/
+- Live preview: https://a-gemy.github.io/odin-recipes/
+- Project link: https://www.theodinproject.com/lessons/foundations-recipes
